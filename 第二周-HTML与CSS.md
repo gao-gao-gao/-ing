@@ -578,7 +578,7 @@ css中的继承：子标签会继承父标签的样式
 
 css盒子模型组成部分：边框、内外边距和实际内容。
 
-<img src="images/images/1.png" /> 
+<img src="images/2.png" /> 
 
 （图来源于菜鸟教程）
 
