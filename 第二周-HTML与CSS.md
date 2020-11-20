@@ -578,7 +578,7 @@ css中的继承：子标签会继承父标签的样式
 
 css盒子模型组成部分：边框、内外边距和实际内容。
 
-<img src="images/2.png" /> 
+<img src="images/2.png style="zoom:67%;" /> 
 
 （图来源于菜鸟教程）
 
@@ -1141,7 +1141,7 @@ Cutterman，运行在Photoshop中的插件  //官网下载  [链接](http://www.
 
 让文字的行高等于盒子的高度。`line-height: height;`
 
-<img src="images/3.png" /> 
+<img src="images/3.png style="zoom:50%;" /> 
 
 (图来源pink老师PPT)
 
