@@ -1141,7 +1141,7 @@ Cutterman，运行在Photoshop中的插件  //官网下载  [链接](http://www.
 
 让文字的行高等于盒子的高度。`line-height: height;`
 
-<img src="picture/3.png" style="zoom:50%;" /> 
+<img src="images/3.png" /> 
 
 (图来源pink老师PPT)
 
@@ -1244,7 +1244,7 @@ esc取消图片显色。
 
 （2）文件---设置---搜索'format'---选择保存时格式化
 
-![](picture/4.png) 
+![](images/4.png) 
 
 （3）生成多个标签，加上\*后按Tab键，如div\*3可以快速生成3个div
 
