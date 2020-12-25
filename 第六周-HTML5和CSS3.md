@@ -51,7 +51,7 @@ div 对搜索引擎来说，是没有语义的。
 
 ### （1）视频
 
-当前`<video>`元素支持三种视频格式：MP4、webm、ogg [菜鸟教程--查看不同浏览器兼容](https://www.runoob.com/tags/tag-video.html)
+当前 `<video> ` 元素支持三种视频格式：MP4、webm、ogg [菜鸟教程--查看不同浏览器兼容](https://www.runoob.com/tags/tag-video.html)
 
 尽量使用 MP4 格式 //因为大多数浏览器都支持
 
